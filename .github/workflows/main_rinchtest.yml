@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RinchTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FFEE70434654B0195CEF4F04A3BDD52 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B795F09351A04E30931D6CF1B308647C }}
           package: .
